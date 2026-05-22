@@ -25,13 +25,20 @@ The platform includes interactive district exploration, product discovery, map i
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/home1.png)
 
 ### Interactive Map
 ![Map](screenshots/map.png)
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/profile_aritician.png)
 
 ### Shop Page
-![Shop](screenshots/shop.png)
+![Shop](screenshots/market_shop.png)
+
+### impact page
+![impact](screenshots/Impact.png)
+
+### review page
+![review](screenshots/review.png)
+
