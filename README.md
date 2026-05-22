@@ -21,3 +21,17 @@ The platform includes interactive district exploration, product discovery, map i
 - Responsive modern UI
 - Protected routes and role-based dashboards
 - Market analytics and training recommendations
+
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Interactive Map
+![Map](screenshots/map.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Shop Page
+![Shop](screenshots/shop.png)
